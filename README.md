@@ -1,4 +1,4 @@
-[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112](https://i.pinimg.com/564x/5e/0a/44/5e0a443a972750adbf6882f159335a8d.jpg))
+[![MasterHead](https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif)
 <h1 align="center">Hi 👋, I'm Khanim Gurbanli</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
