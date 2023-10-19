@@ -1,13 +1,10 @@
-https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif
-
+[![MasterHead(https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)
 <h1 align="center">Hi 👋, I'm Khanim Gurbanli</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on [Mebra.az](https://mebra.az/)
 
 - 🌱 I’m currently learning **Xamarin,React,CI/CD,Testing**
-
-- 👯 I’m looking to collaborate on [qr.xezrilizinq.az](http://qr.xezrilizinq.az/products/qrcode/MjZlYTZhMWMtMDYwZS00NTFlLWE0NWQtODYxZjg0NDQzNTc5/1091/5901a299-b8a1-4d5f-83d3-7cc9c6b5d81a)
 
 - 👨‍💻 All of my projects are available at [https://www.greencode.blog/](https://www.greencode.blog/)
 
