@@ -11,8 +11,6 @@
 
 - 📝 I regularly write articles on [https://www.greencode.blog/](https://www.greencode.blog/)
 
-- 💬 Ask me about **Redis,RabbitMQ**
-
 - 📫 How to reach me **khanimgurbanzade@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16vpfWHxiBKbu9OLX8vwZrdhU3KZeA8BH/view](https://drive.google.com/file/d/16vpfWHxiBKbu9OLX8vwZrdhU3KZeA8BH/view)
