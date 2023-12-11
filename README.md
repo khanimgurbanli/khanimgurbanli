@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mebra.az](https://mebra.az/)
 
-- 🌱 I’m currently learning **Xamarin,React,CI/CD,Testing**
+- 🌱 I’m currently learning **Java,CI/CD,Testing**
 
 - 👨‍💻 All of my projects are available at [https://www.greencode.blog/](https://www.greencode.blog/)
 
