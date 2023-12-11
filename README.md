@@ -1,6 +1,6 @@
 [![MasterHead](https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif)
 
-<h1 align="center">Hi 👋, I'm Khanim</h1>
+<h1 align="center">Hi, 👋 I'm Khanim</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on [Mebra.az](https://mebra.az/)
