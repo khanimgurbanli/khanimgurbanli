@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Java,CI/CD,Testing**
 
-- 👨‍💻 All of my projects are available at [https://www.greencode.blog/](https://www.greencode.blog/)
+- 👨‍💻 All of my projects are available at [https://khanimgurbanli.com/](https://khanimgurbanli.com/)
 
-- 📝 I regularly write articles on [https://www.greencode.blog/](https://www.greencode.blog/)
+- 📝 I regularly write articles on [https://khanimgurbanli.com/](https://khanimgurbanli.com/)
 
 - 📫 How to reach me **khanimgurbanzade@gmail.com**
 
