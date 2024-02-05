@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://khanimgurbanli.com/](https://khanimgurbanli.com/)
 
-- 📝 I regularly write articles on [https://khanimgurbanli.com/](https://khanimgurbanli.com/)
+- 📝 I regularly write articles on [https://khanimgurbanli.com/blogs/blog](https://khanimgurbanli.com/blogs/blog)
 
-- 📫 How to reach me **khanimgurbanzade@gmail.com**
+- 📫 How to reach me **info@khanimgurbanli.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16vpfWHxiBKbu9OLX8vwZrdhU3KZeA8BH/view](https://drive.google.com/file/d/16vpfWHxiBKbu9OLX8vwZrdhU3KZeA8BH/view)
 
-- ⚡ Fun fact **Meditation is an integral part of my weekly routine. It helps me gain flexibility and increase mental serenity. 🧘‍♀️🌞**
+- ⚡ Fun fact **Meditation is an integral part of my weekly routine. It helps me gain flexibility and increase mental serenity. And sounding audio book for my YouTube channel [https://www.youtube.com/channel/UC26Lvtxt6jFgjMruMtCRWqg](https://www.youtube.com/channel/UC26Lvtxt6jFgjMruMtCRWqg)🧘‍♀️🌞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
