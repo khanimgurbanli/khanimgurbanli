@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [[My](https://drive.google.com/file/d/16vpfWHxiBKbu9OLX8vwZrdhU3KZeA8BH/view)]([salam](https://drive.google.com/file/d/16vpfWHxiBKbu9OLX8vwZrdhU3KZeA8BH/view))
 
-- ⚡ Fun fact **Meditation is an integral part of my weekly routine. It helps me gain flexibility and increase mental serenity. And sounding audio book for my YouTube channel [https://www.youtube.com/channel/UC26Lvtxt6jFgjMruMtCRWqg](https://www.youtube.com/channel/UC26Lvtxt6jFgjMruMtCRWqg)🧘‍♀️🌞**
+- ⚡ Fun fact **Meditation is an integral part of my weekly routine. It helps me gain flexibility and increase mental serenity. And I voice books for the YouTube channel. [https://www.youtube.com/channel/UC26Lvtxt6jFgjMruMtCRWqg](https://www.youtube.com/channel/UC26Lvtxt6jFgjMruMtCRWqg)🧘‍♀️🌞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
