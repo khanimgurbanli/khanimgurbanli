@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mebra.az](https://mebra.az/)
 
-- 🌱 I’m currently learning **Java,CI/CD,Testing**
+- 🌱 I’m currently learning **DevOps, CI/CD, Testing, React, Node.js, Python**
 
 - 👨‍💻 All of my projects are available at [https://khanimgurbanli.com/](https://khanimgurbanli.com/)
 
