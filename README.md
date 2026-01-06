@@ -3,7 +3,7 @@
 <h1 align="center">Hi, 👋 I'm Khanim</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on [Veyseloglu Group of Companies]([https://mebra.az/](https://www.veyseloglu.az/))
+- 🔭 I’m currently working on [Veyseloglu Group of Companies](https://www.veyseloglu.az/)
 
 - 🌱 I’m currently learning **DevOps, CI/CD, Testing, React, Node.js, Python**
 
