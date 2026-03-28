@@ -1,32 +1,111 @@
-[![MasterHead](https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Khanim%20Gurbanli&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Project%20Manager%20%7C%20Mentor&descAlignY=55&descSize=18" width="100%"/>
+</div>
 
-<h1 align="center">Hi, 👋 I'm Khanim</h1>
-<h3 align="center">A passionate backend developer from Azerbaijan</h3>
+<br/>
 
-- 🔭 I’m currently working on [Veyseloglu Group of Companies](https://www.veyseloglu.az/)
+## 👋 Hey, I'm Khanim
 
-- 🌱 I’m currently learning **DevOps, CI/CD, Testing, React, Node.js, Python**
+**Software Engineer and Project Manager** who goes beyond implementation — actively contributing across the full product lifecycle, from idea shaping to scalable system development, aligning technical solutions with business goals.
 
-- 👨‍💻 All of my projects are available at [https://khanimgurbanli.com/](https://khanimgurbanli.com/)
+My work isn't limited to writing code. I've been involved in product development from early ideation to architecture design, team coordination, and delivery strategy. In freelance projects, I've built and led teams, focusing on delivering products that create real business value.
 
-- 📝 I regularly write articles on [https://khanimgurbanli.com/blogs/blog](https://khanimgurbanli.com/blogs/blog)
+---
 
-- 📫 How to reach me **info@khanimgurbanli.com**
+## 🚀 What I Do
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16vpfWHxiBKbu9OLX8vwZrdhU3KZeA8BH/view](https://drive.google.com/file/d/16vpfWHxiBKbu9OLX8vwZrdhU3KZeA8BH/view)
+```
+🔧 Build scalable backend systems and APIs
+🧩 Architect full-stack products from the ground up
+📦 Lead teams and manage project delivery
+💡 Bridge business goals with technical execution
+🌍 Deliver for international clients across multiple industries
+```
 
-- ⚡ Fun fact **Meditation is an integral part of my weekly routine. It helps me gain flexibility and increase mental serenity. And I voice books for the YouTube channel. [https://www.youtube.com/channel/UC26Lvtxt6jFgjMruMtCRWqg](https://www.youtube.com/channel/UC26Lvtxt6jFgjMruMtCRWqg)🧘‍♀️🌞**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khanimgurbanli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khanimgurbanli" height="30" width="40" /></a>
-</p>
+## 💼 Current Focus
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+- 🔭 Working at **[Mebra.az](https://mebra.az)** as Software Engineer — building e-commerce, B2B supply, and document management platforms
+- 🌱 Expanding into **DevOps, Python, FastAPI, Docker, Kubernetes**
+- 🏛️ Leading a **government platform modernization** proposal — accepted and currently in active implementation
+- 🧑‍🏫 Mentoring startup teams and junior engineers
+- 👩‍💻 Portfolio: **[khanimgurbanli.com](https://khanimgurbanli.com)**
+- 📫 Reach me: **info@khanimgurbanli.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanimgurbanli&show_icons=true&locale=en&layout=compact" alt="khanimgurbanli" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanimgurbanli&show_icons=true&locale=en" alt="khanimgurbanli" /></p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanimgurbanli&" alt="khanimgurbanli" /></p>
+### Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 📌 Selected Projects
+
+| Project | Stack | Impact |
+|---|---|---|
+| [victorygroup.az](https://victorygroup.az) | .NET · Search · Messaging | Corporate platform with backend architecture |
+| [highlightevent.com](https://highlightevent.com) | Next.js · API · PostgreSQL | Full-stack event platform |
+| [modernaqua.az](https://modernaqua.az) | .NET · API · CI/CD | Scalable backend with automated pipelines |
+| [doclab.az](https://doclab.az) | .NET · Workflow | Secure document signing platform |
+| [legalis.az](https://legalis.az) | .NET · API | Legal platform with maintainable architecture |
+| Traffic Police QR System | .NET · Security | 95% fraud reduction · 2x revenue growth |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khanimgurbanli&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanimgurbanli&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanimgurbanli&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khanimgurbanli)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://khanimgurbanli.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@khanimgurbanli.com)
+[![CV](https://img.shields.io/badge/Download_CV-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=18nBdP6lM3XyL0ZIssxeOTC5402QhKRHV)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+</div>
