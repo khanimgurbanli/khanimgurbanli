@@ -74,7 +74,7 @@ My work isn't limited to writing code. I've been involved in product development
 | [modernaqua.az](https://modernaqua.az) | .NET · API · CI/CD | Scalable backend with automated pipelines |
 | [victorygroup.az](https://victorygroup.az) | .NET · Search · Messaging | Corporate platform with backend architecture |
 | [highlightevent.com](https://highlightevent.com) | Next.js · API · PostgreSQL | Full-stack event platform |
-| [doclab.az](https://doclab.az) | .NET · Workflow | Secure document signing platform |
+| [mebra.az](https://mebra.az) | .NET · Payment · CI/CD | Home appliances retailer platform |
 | [legalis.az](https://legalis.az) | .NET · API | Legal platform with maintainable architecture |
 | Traffic Police QR System | .NET · Security | 95% fraud reduction · 2x revenue growth |
 
