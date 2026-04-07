@@ -12,26 +12,26 @@ My work isn't limited to writing code. I've been involved in product development
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 ```
-🔧 Build scalable backend systems and APIs
-🧩 Architect full-stack products from the ground up
-📦 Lead teams and manage project delivery
-💡 Bridge business goals with technical execution
-🌍 Deliver for international clients across multiple industries
+ Build scalable backend systems and APIs
+ Architect full-stack products from the ground up
+ Lead teams and manage project delivery
+ Bridge business goals with technical execution
+ Deliver for international clients across multiple industries
 ```
 
 ---
 
-## 💼 Current Focus
+##  Current Focus
 
-- 🔭 Working at **[Mebra.az](https://mebra.az)** as Software Engineer — building e-commerce, B2B supply, and document management platforms
-- 🌱 Expanding into **DevOps, Python, FastAPI, Docker, Kubernetes**
-- 🏛️ Leading a **government platform modernization** proposal — accepted and currently in active implementation
-- 🧑‍🏫 Mentoring startup teams and junior engineers
-- 👩‍💻 Portfolio: **[khanimgurbanli.com](https://khanimgurbanli.com)**
-- 📫 Reach me: **info@khanimgurbanli.com**
+-  Working at **[Mebra.az](https://mebra.az)** as Software Engineer — building e-commerce, B2B supply, and document management platforms
+-  Expanding into **DevOps, Python, FastAPI, Docker, Kubernetes**
+-  Leading a **government platform modernization** proposal — accepted and currently in active implementation
+-  Mentoring startup teams and junior engineers
+-  Portfolio: **[khanimgurbanli.com](https://khanimgurbanli.com)**
+-  Reach me: **info@khanimgurbanli.com**
 
 ---
 
@@ -80,7 +80,7 @@ My work isn't limited to writing code. I've been involved in product development
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khanimgurbanli&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -93,7 +93,7 @@ My work isn't limited to writing code. I've been involved in product development
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 <div align="left">
 
