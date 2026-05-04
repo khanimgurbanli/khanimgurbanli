@@ -6,7 +6,7 @@
 
 ## 👋 Hey, I'm Khanim
 
-**Software Engineer and Project Manager** who goes beyond implementation — actively contributing across the full product lifecycle, from idea shaping to scalable system development, aligning technical solutions with business goals.
+**Software Engineer and Project Manager** who goes beyond implementation actively contributing across the full product lifecycle, from idea shaping to scalable system development, aligning technical solutions with business goals.
 
 My work isn't limited to writing code. I've been involved in product development from early ideation to architecture design, team coordination, and delivery strategy. In freelance projects, I've built and led teams, focusing on delivering products that create real business value.
 
