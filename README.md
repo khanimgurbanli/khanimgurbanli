@@ -4,7 +4,7 @@
 
 <br/>
 
-## 👋 Hey, I'm Khanim
+##  Hey, I'm Khanim
 
 **Software Engineer and Project Manager** who goes beyond implementation actively contributing across the full product lifecycle, from idea shaping to scalable system development, aligning technical solutions with business goals.
 
